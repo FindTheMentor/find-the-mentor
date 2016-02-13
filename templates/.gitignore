@@ -1,0 +1,7 @@
+.idea/
+.idea/*
+.idea/workspace.xml
+.pydevproject
+*.pyc
+.DS_Store
+sqlite3.db
